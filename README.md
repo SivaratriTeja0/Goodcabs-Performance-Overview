@@ -275,8 +275,6 @@ Competitor pricing
 
 Event calendars
 
-📎 Project Links
-
 🔗 LinkedIn Post 
 📊 Live Power BI Dashboard
 🖥 Presentation (PDF)
