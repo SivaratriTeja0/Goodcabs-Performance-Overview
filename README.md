@@ -277,10 +277,10 @@ Event calendars
 
 📎 Project Links
 
-🔗 LinkedIn Post — Add your link
-📊 Live Power BI Dashboard — Add your link
-🖥 Presentation (PDF) — Add your link
-📁 GitHub Repository — Add your link
+🔗 LinkedIn Post 
+📊 Live Power BI Dashboard
+🖥 Presentation (PDF)
+
 
 🧠 Skills Gained
 
