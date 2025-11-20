@@ -275,9 +275,9 @@ Competitor pricing
 
 Event calendars
 
-🔗 LinkedIn Post 
-📊 Live Power BI Dashboard
-🖥 Presentation (PDF)
+🔗 LinkedIn Post -https://tinyurl.com/y3cf62an
+📊 Live Power BI Dashboard-https://tinyurl.com/yazkuvh6
+🖥 Presentation (PDF)-
 
 
 🧠 Skills Gained
