@@ -277,7 +277,7 @@ Event calendars
 
 🔗 LinkedIn Post -https://tinyurl.com/y3cf62an
 📊 Live Power BI Dashboard-https://tinyurl.com/yazkuvh6
-🖥 Presentation (PDF)-GoodCabs_Dashboard.pdf
+🖥 Presentation (PDF)-https://tinyurl.com/3ubr7tc8
 
 
 🧠 Skills Gained
